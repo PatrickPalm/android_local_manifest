@@ -14,7 +14,8 @@
     <project path="frameworks/av" name="legaCyMod/android_frameworks_av" revision="cm-10.1" />
     <project path="frameworks/native" name="legaCyMod/android_frameworks_native" revision="cm-10.1" />
     <project path="hardware/libhardware_legacy" name="legaCyMod/android_hardware_libhardware_legacy" revision="cm-10.1" />
-    <project path="hardware/qcom/media" name="legaCyMod/android_hardware_qcom_media" revision="cm-10.1" />
+    <project path="hardware/qcom/media" name="Evervolv/android_hardware_qcom_media" revision="jellybean" />
+    <project path="hardware/qcom/media-legacy" name="Evervolv/android_hardware_qcom_media-legacy" revision="jellybean" />
     <project path="system/netd" name="legaCyMod/android_system_netd" revision="cm-10.1" />
     <project path="vendor/cm" name="legaCyMod/android_vendor_cm" revision="cm-10.1" />
 
