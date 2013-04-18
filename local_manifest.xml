@@ -20,8 +20,8 @@
 
     <!-- Local projects -->
     <project path="hardware/qcom/display-legacy" name="legaCyMod/android_hardware_qcom_display-legacy" revision="cm-10.1" />
-    <project path="hardware/qcom/media-legacy" name="legaCyMod/android_hardware_qcom_media-legacy" revision="cm-10.1" />
-</manifest>
+    <project path="hardware/qcom/media-legacy" name="camcory/android_hardware_qcom_media-legacy" revision="cm-10.1" />
+
     <!-- Device -->
     <project path="device/alcatel/cocktail" name="PatrickPalm/android_device_alcatel_cocktail" revision="cm-10.1" />
     <project path="kernel/alcatel/alcatel-kernel-msm7x30" name="PatrickPalm/alcatel-kernel-msm7x30" revision="cm-10.1" />
